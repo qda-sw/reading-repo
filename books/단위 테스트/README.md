@@ -1,5 +1,5 @@
 # 📖 단위 테스트: 생산성과 품질을 위한 단위 테스트 원칙과 패턴
-![image](https://image.yes24.com/goods/104084175/)
+![image](images/cover.jpg)
 
 ## 📌 [책 정보](https://www.yes24.com/Product/Goods/104084175)
 - **저자:** Vladimir Khorikov
